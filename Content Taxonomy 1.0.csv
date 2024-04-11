@@ -31,17 +31,17 @@ Lifestyle,,category/lifestyle/
 ,Work,category/lifestyle/work/
 News,,category/news/
 ,Business & Economy,category/business-economy/
-,Civil Rights & Social Justice,/category/news/civil-rights-social-justice/
-,Crime,/category/news/crime/
-,Education,/category/news/education/
-,Good News,/category/news/good-news/
-,Health,/category/news/health/
-,Local,/category/news/local/
-,National,/category/news/national/
-,Obituaries,/category/news/obituaries/
-Politics,,/category/politics
-Sports,,/category/sports
-Style & Fashion,,/category/style-fashion
-Technology,,/category/technology
-Shop,,/category/shop
-Wellness,,/category/wellness
+,Civil Rights & Social Justice,category/news/civil-rights-social-justice/
+,Crime,category/news/crime/
+,Education,category/news/education/
+,Good News,category/news/good-news/
+,Health,category/news/health/
+,Local,category/news/local/
+,National,category/news/national/
+,Obituaries,category/news/obituaries/
+Politics,,category/politics
+Sports,,category/sports
+Style & Fashion,,category/style-fashion
+Technology,,category/technology
+Shop,,category/shop
+Wellness,,category/wellness
