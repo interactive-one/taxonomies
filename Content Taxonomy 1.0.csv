@@ -1,47 +1,47 @@
-Name,Sub Category
-Beauty,
-,Hair
-,Makeup
-,Nails
-,Skin Care
-Entertainment,
-,Art & Design
-,Books
-,Games
-,Movies
-,Music
-,Television
-,Reality TV
-Pop Culture,
-,Actors
-,Athletes
-,Celebrity
-,Celebrity Kids
-,Models
-,Public Figures
-,Reality TV Stars
-,Recording Artists
-Lifestyle,
-,Entrepreneurship
-,Family & Parenting
-,Food & Drink
-,Money
-,Relationships
-,Travel
-,Work
-News,
-,Business & Economy
-,Civil Rights & Social Justice
-,Crime
-,Education
-,Good News
-,Health
-,Local
-,National
-,Obituaries
-Politics,
-Sports,
-Style & Fashion,
-Technology,
-Shop,
-Wellness,
+Name,Sub Category,Slug
+Beauty,,category/beauty/
+,Hair,category/beauty/hair/
+,Makeup,category/beauty/makeup/
+,Nails,category/beauty/nails/
+,Skin Care,category/beauty/skin-care/
+Entertainment,,category/entertainment/
+,Art & Design,category/entertainment/art-design/
+,Books,category/entertainment/books/
+,Games,category/entertainment/games/
+,Movies,category/entertainment/movies/
+,Music,category/entertainment/music/
+,Television,category/entertainment/television/
+,Reality TV,category/entertainment/reality-tv/
+Pop Culture,,
+,Actors,category/pop-culture/actors/
+,Athletes,category/pop-culture/athletes/
+,Celebrity,category/pop-culture/celebrity/
+,Celebrity Kids,category/pop-culture/celebrity-kids/
+,Models,category/pop-culture/models/
+,Public Figures,category/pop-culture/public-figures/
+,Reality TV Stars,category/pop-culture/reality-tv-stars/
+,Recording Artists,category/pop-culture/recording-artists/
+Lifestyle,,category/lifestyle/
+,Entrepreneurship,category/lifestyle/entrepreneurship/
+,Family & Parenting,category/lifestyle/family-parenting/
+,Food & Drink,category/lifestyle/food-drink/
+,Money,category/lifestyle/money/
+,Relationships,category/lifestyle/relationships/
+,Travel,category/lifestyle/travel/
+,Work,category/lifestyle/work/
+News,,category/news/
+,Business & Economy,category/business-economy/
+,Civil Rights & Social Justice,/category/news/civil-rights-social-justice/
+,Crime,/category/news/crime/
+,Education,/category/news/education/
+,Good News,/category/news/good-news/
+,Health,/category/news/health/
+,Local,/category/news/local/
+,National,/category/news/national/
+,Obituaries,/category/news/obituaries/
+Politics,,/category/politics
+Sports,,/category/sports
+Style & Fashion,,/category/style-fashion
+Technology,,/category/technology
+Shop,,/category/shop
+Wellness,,/category/wellness
